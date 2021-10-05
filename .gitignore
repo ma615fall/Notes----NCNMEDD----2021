@@ -2,3 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+*.xcf
+*.psd
+*.jpg
+*.webp
+*.aux
+*.log
+*.out
+*.gz
+*.png
+*.gif
+
